@@ -103,7 +103,7 @@ CRITICAL RULES:
     
     // Try multiple approaches to extract JSON
     let pixelsArray;
-    let cleaned = response.replace(/```json|```/gi, '').trim();
+    const cleaned = response.replace(/```json|```/gi, '').trim();
     
     // First try: look for JSON array pattern with more flexible regex
     const jsonMatch = cleaned.match(/\[[\s\S]*?\]/);
