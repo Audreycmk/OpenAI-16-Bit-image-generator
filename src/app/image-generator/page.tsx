@@ -1,6 +1,5 @@
 'use client';
 
-import { useState } from 'react';
 import ImageGenerator from '../../components/ImageGenerator';
 
 export default function ImageGeneratorPage() {

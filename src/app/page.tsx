@@ -24,8 +24,8 @@ export default function Home() {
         <div style={{ textAlign: 'center', marginTop: '40px' }}>
           <h2 style={{ color: '#333', marginBottom: '10px' }}>How it works:</h2>
           <ul style={{ textAlign: 'left', color: '#666', lineHeight: '1.6' }}>
-            <li>Type a description like "a yellow duck"</li>
-            <li>Press Enter or click "Generate Pixel"</li>
+            <li>Type a description like &quot;a yellow duck&quot;</li>
+            <li>Press Enter or click &quot;Generate Pixel&quot;</li>
             <li>The result is sometimes abstract and for entertainment purpose —see what OpenAI AI creates!</li>
           </ul>
         </div>
