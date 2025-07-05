@@ -41,5 +41,4 @@ yarn-error.log*
 next-env.d.ts
 
 # sensitive files
-lib/openai-pixel.ts
-src/app/api/generate-pixel/route.ts 
+lib/openai-pixel.ts 
